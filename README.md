@@ -10,4 +10,4 @@ We forgot to make an actual game. Big error. Well... it's not that we forgot. We
 
 ## Release notes
 
-i added some details, yay
+I added some details, yay!
